@@ -1,4 +1,12 @@
-body {
+header{
     background-color: #791B6A;
     color: #ADFF00;
+    display:flex;
+}
+.cabeçalho-imagem{
+width: 20%;
+}
+.cabeçalho-item{
+display:inline-block;
+margin: 0 16px;
 }
